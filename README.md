@@ -93,7 +93,7 @@ This project is for educational purposes only. All rights belong to Spotify AB. 
 ## 📧 Contact
 Talha Salman - talha.salman.work@gmail.com
 
-Project Link: https://github.com/talhah-salman.github.io/spotify-frontend
+Project Link: https://talhah-salman.github.io/spotify-frontend
 
 ## 🙏 Acknowledgments
 - Spotify for design inspiration
