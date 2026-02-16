@@ -15,7 +15,7 @@ A frontend clone of Spotify's web player interface. This project replicates the 
 
 ## 🚀 Live Demo
 
-**Experience the live demo here:** [Spotify Frontend Clone](https://talhah-salman.github.io/spotify-frontend)
+**Experience the live demo here:** [Spotify Frontend Clone](https://talhah-salman.github.io/spotify-frontend/)
 
 
 ## ✨ Features
